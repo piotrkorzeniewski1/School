@@ -1,0 +1,294 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	background-color: #eee7db;
+	width: 1000px;
+	height: 900px;
+	color: gray;
+}
+nav
+{
+	width: 1000px;
+	height: 70px;
+	position: sticky;
+	top:0px;
+	color: white;
+}
+nav ul li
+{
+	width: 190px;
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 10px;
+	height: 60px;
+	background-image: url("zdjecia/mosaic.png"); 
+}
+span
+{
+	color:salmon;
+}
+nav ul li:hover
+{
+	filter: brightness(0.5);
+}
+header
+{
+	height: 160px;
+	text-align: center;
+}
+#naglowki
+{
+	height: 120px;
+	padding-top: 30px;
+}
+#naglowki h1
+{
+	padding-bottom: 10px;
+	color: salmon;
+}
+#naglowki h2
+{
+	padding-bottom: 10px;
+	color: salmon;
+}
+
+#panele
+{
+	padding-top: 10px;
+	width: 1000px;
+	height: 290px;
+}
+#lewy
+{
+	padding-left: 100px;
+	width: 200px;
+	float: left;
+}
+#lewy h2
+{
+	color: salmon;
+}
+
+#dni
+{
+	width: 100px;
+	float: left;
+}
+#dni ul li
+{
+	list-style: none;
+	font-size: 20px;
+	font-style: oblique;
+}
+#godziny
+{
+	width: 100px;
+	float: left;
+}
+#godziny ul li
+{
+	padding-left:5px; 
+	list-style: none;
+	font-size: 20px;
+	font-style: ;
+}
+#adn
+{
+	font-size: 10px;
+}
+#prawy
+{
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-right: 100px;
+	width: 550px;
+	float: left;
+}
+#prawy h2
+{
+	text-align: center;
+	color: salmon;
+}
+#prawy h3
+{
+	color: salmon;
+}
+#nazwa_p
+{
+	width: 137px;
+	float: left;
+	font-style: oblique;
+
+}
+#nazwa_p ul li
+{
+	color:gray;
+	list-style: none;
+	font-size: 18px;
+}
+
+#cena_p
+{
+	padding-left: 10px;
+	width: 127px;
+	float: left;
+	font-style: oblique;
+}
+#cena_p ul li
+{
+	color:gray;
+	list-style: none;
+	font-size: 18px;
+}
+
+#ilosc_p
+{
+	width: 137px;
+	float: left;
+	font-style: oblique;
+}
+#ilosc_p ul li
+{
+	color:gray;
+	list-style: none;
+}
+#ilosc_p input
+{
+	width: 30px;
+	-webkit-appearance: none;
+}
+
+#zamow_p
+{
+	width: 137px;
+	float: left;
+	font-style: oblique;
+}
+#zamow_p ul li
+{
+	color:gray;
+	list-style: none;
+}
+#zamowienie
+{
+	padding-top: 20px;
+	height: 20px;
+	float: left;
+}
+#zamowienie input
+{
+	border: 4px solid salmon;
+	background-color: salmon;
+	cursor: pointer;
+}
+#oplata
+{
+	font-size: 30px;
+	width: 100%;
+	height: 40px;
+	float: left;
+}
+#galeria
+{
+	padding-left: 100px;
+	padding-right: 100px;
+	width: 700px;
+	height: 300px;
+	float: left;
+}
+#obrazek1
+{
+	float: left;
+}
+#obrazek1:hover ~ #tyt1
+{
+	background-color: salmon;
+	color: white;
+}
+
+#obrazek2
+{
+	float: left;
+	padding-left: 33px;
+}
+#obrazek2:hover ~ #tyt2
+{
+	background-color: salmon;
+	color: white;
+}
+#obrazek3
+{
+	float: left;
+	padding-left: 33px;
+}
+#obrazek3:hover ~ #tyt3
+{
+	background-color: salmon;
+	color: white;
+}
+#obrazek4
+{
+	float: left;
+	padding-left: 33px;
+}
+
+#obrazek4:hover ~ #tyt4
+{
+	background-color: salmon;
+	color: white;
+}
+
+#tyt1
+{
+	width: 150px;
+	float: left;
+	height: 30px;
+	padding-top: 10px;
+	text-align: center;
+	font-size: 20px;
+	color: salmon;
+}
+
+#tyt2
+{
+	width: 150px;
+	float: left;
+	height: 30px;
+	padding-top: 10px;
+	margin-left: 33px;
+	text-align: center;
+	font-size: 20px;
+	color: salmon;
+}
+
+#tyt3
+{
+	width: 150px;
+	float: left;
+	height: 30px;
+	padding-top: 10px;
+	margin-left: 33px;
+	text-align: center;
+	font-size: 20px;
+	color: salmon;
+}
+
+#tyt4
+{
+	width: 150px;
+	height: 30px;
+	padding-top: 10px;
+	float: left;
+	margin-left: 33px;
+	text-align: center;
+	font-size: 20px;
+	color: salmon;
+
+}

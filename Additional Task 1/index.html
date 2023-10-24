@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/fontello.css">
+	<script type="text/javascript" src="skrypt.js"></script>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li>Strona główna</li>
+			<li>O nas</li>
+			<li>Produkty</li>
+			<li>Aktualności</li>
+			<li>Kontakt</li>
+		</ul>
+	</nav>
+
+	<header>
+		<div id="naglowki">
+			<h1>Cukiernia w Elblągu</h1>
+			<h2>ul. Pułkownika Dąbka 152</h2>
+			<div id="kontakt">
+			<h3><span class="icon-phone"></span>+4812345678 <span class="icon-mail"></span>cukiernia@poczta.com</h3>
+		</div>
+	</header>
+	<div id="panele">
+		<div id="lewy">
+			<h2>Godziny otwarcia</h2>
+			<div id="dni">
+				<ul>
+					<li>poniedzialek</li>
+					<li>wtorek</li>
+					<li>sroda</li>
+					<li>czwartek</li>
+					<li>piatek</li>
+					<li>sobota</li>
+					<li>niedziela</li>
+					<li>niedziela*</li>
+				</ul>
+			</div>
+			<div id="godziny">
+				<ul>
+					<li>9:00-21:00</li>
+					<li>9:00-21:00</li>
+					<li>9:00-21:00</li>
+					<li>9:00-21:00</li>
+					<li>9:00-21:00</li>
+					<li>9:00-21:00</li>
+					<li>9:00-21:00</li>
+					<li>nieczynne</li>
+				</ul>
+			</div>
+			<div id="adn">*niedziela niehandlowa</div>
+		</div>
+		<div id="prawy">
+			<h2>Złóż zamówienie</h2>
+
+			<div id="nazwa_p">
+				<h3>Nazwa produktu<h3>
+				<ul>
+					<li>pączki</li>
+					<li>tort</li>
+					<li>ciasto</li>
+					<li>praliny</li>
+				</ul>
+			</div>
+
+			<div id="cena_p">
+				<h3>Cena<h3>
+				<ul>
+					<li>9zł/szt</li>
+					<li>50zł/kg</li>
+					<li>30zł/kg</li>
+					<li>15zł/szt</li>
+				</ul>
+
+			</div>
+
+			<div id="ilosc_p">
+				<h3>Ilość</h3>
+				<form>
+					<ul>
+						<li><input type="number" name="ilosc" id="ilosc1"></li>
+						<li><input type="number" name="ilosc" id="ilosc2"></li>
+						<li><input type="number" name="ilosc" id="ilosc3"></li>
+						<li><input type="number" name="ilosc" id="ilosc4"></li>
+					</ul>
+				</form>
+
+			</div>
+
+			<div id="zamow_p">
+					<h3>Zamów</h3>
+					<form>
+					<ul>
+						<li><input type="checkbox" name="ilosc" id="check1"></li>
+						<li><input type="checkbox" name="ilosc" id="check2"></li>
+						<li><input type="checkbox" name="ilosc" id="check3"></li>
+						<li><input type="checkbox" name="ilosc" id="check4"></li>
+					</ul>
+				</form>
+			</div>
+			<div id="zamowienie"><input type="submit" name="zamow" id="zamow" value="Zamów" onclick="zamowienia()"></div>
+			<div id="oplata"></div>
+		</div>
+	</div>
+
+	<div id="galeria">
+		<div id="obrazek1"><img src="zdjecia/obraz1.jpg"></div>
+		<div id="obrazek2"><img src="zdjecia/obraz2.jpg"></div>
+		<div id="obrazek3"><img src="zdjecia/obraz3.jpg"></div>
+		<div id="obrazek4"><img src="zdjecia/obraz4.jpg"></div>
+		<div id="tyt1">Ciasta deserowe</div>
+		<div id="tyt2">Ciasta pieczone</div>
+		<div id="tyt3">Torty deserowe</div>
+		<div id="tyt4">Praliny</div>
+	</div>
+</body>
+</html>
