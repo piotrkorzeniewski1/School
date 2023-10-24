@@ -148,3 +148,7 @@ Treść zadania
 ## Additional Task 1:
 
 Zadanie dodatkowe dla chętnych, strona głowna cukierni w Elblągu.
+
+## Graded assignment:
+
+Zadanie, które trzeba było zrobić pod koniec roku, na zaliczenie przedmiotu. Ocenione zostało na 6.
