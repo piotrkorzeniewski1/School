@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "f27bba41a700af51a4dd23cf4edea61d",
+      "css": "headphones",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ee8014a23bf900eae0103c7699718bc7",
+      "css": "king",
+      "code": 59393,
+      "src": "mfglabs"
+    }
+  ]
+}
