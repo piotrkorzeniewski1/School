@@ -1,0 +1,118 @@
+body
+{
+	font-family: 'Roboto Condensed';
+	background-color: #ccee99;
+}
+#box
+{
+	width: 900px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	margin-top: 20px;
+}
+header
+{
+	height: 70px;
+	width: 850px;
+	margin: auto;
+	padding-top: 30px;
+	font-weight: bold;
+	font-size: 35px;
+	padding-bottom: 20px;
+}
+#naglowek
+{
+	margin:auto;
+	height: 70px;
+	background-color: #a6ff4d;
+	border-radius: 10px;
+	padding-top: 25px;
+	text-align: center;
+}
+#p1
+{
+
+	width: 150px;
+	height: 764px;
+	margin: 25px;
+	margin-top: 5px;
+	font-size: 15px;
+	float: left;
+
+}
+ul
+{
+	padding-inline-start: 26px;
+}
+p
+{
+	font-weight: bold;
+}
+#p2
+{
+
+	width: 150px;
+	height: 764px;
+	margin: 25px;
+	margin-top: 5px;
+	font-size: 15px;
+	float: left;
+
+}
+#pp1
+{
+	background-color:  #a6ff4d;
+	border-radius: 10px;
+	height: 450px;
+	padding: 10px;
+	margin-top: 20px;
+	line-height: 1.9;
+}
+#pp3
+{
+	background-color:  #a6ff4d;
+	border-radius: 10px;
+	height: 450px;
+	padding: 10px;
+	margin-top: 20px;
+	line-height: 1.9;
+
+}
+#pp2
+{
+	background-color: #a6ff4d;
+	border-radius: 10px;
+	height: 200px;
+	padding: 10px;
+	margin-top: 20px;
+	line-height: 1.9;
+
+}
+#pp4
+{
+	background-color: #a6ff4d;
+	border-radius: 10px;
+	height: 200px;
+	padding: 10px;
+	margin-top: 20px;
+	line-height: 1.9;
+
+}
+main
+{
+	width: 440px;
+	padding: 30px;
+	text-align: justify;
+	line-height: 2;
+	float: left;
+	margin:auto;
+}
+footer
+{
+	height: 100px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 30px;
+}
