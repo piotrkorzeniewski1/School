@@ -144,3 +144,7 @@ Treść zadania
 </details>
 </details>
 </details>
+
+## Additional Task 1:
+
+Zadanie dodatkowe dla chętnych, strona głowna cukierni w Elblągu.
