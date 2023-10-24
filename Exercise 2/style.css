@@ -1,0 +1,96 @@
+body
+{
+	font-family: '';
+	color:#142d75;
+}
+#box
+{
+	width: 900px;
+	border: 1px solid black;
+}
+header
+{
+	float: none;
+}
+h1
+{
+	text-align: center;
+	background-color: yellow;
+	padding-top: 20px;
+	margin: 0px;
+	width: 100%;
+	height: 100px;
+}
+nav
+{
+	width: 30%;
+	float: left;
+}
+nav ul
+{
+	list-style: none;
+	padding-inline-start: 0px;
+	margin-block-start: 0em;
+	font-size: 20px;
+	background: linear-gradient(to right, #89baf5, white);
+}
+nav ul li
+{
+	padding-left: 10px;
+}
+a
+{
+
+	line-height: 60px;
+	text-decoration: none;
+	color:#142d75;
+}
+a:hover
+{
+ background-color: yellow;
+}
+#aktywny
+{
+	background: linear-gradient(to right, yellow, white);
+}
+main
+{
+	width: 70%;
+	float: left;
+	color:#142d75;
+}
+footer
+{
+	padding-top: 15px;
+	height: 25px;
+	width: 100%;
+	background-color: yellow;
+	clear:both;
+}
+
+main ul li
+{
+	list-style: none;
+}
+#przedzialy
+{
+	text-align: right;
+	padding-right: 265px;
+}
+input
+{
+	outline: none;
+}
+input[type="submit"]
+{
+	background-color: #b3d9ff;
+	border: 2px solid #b3d9ff;
+	cursor: pointer;
+	outline: none;
+	text-align: right;
+}
+input[type="submit"]:active
+{
+	background-color: #80bfff;
+	border: 2px solid #80bfff;
+}
