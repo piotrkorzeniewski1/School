@@ -1,0 +1,173 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	width: 980px;
+	border: 2px solid black;
+}
+header
+{
+	background: linear-gradient(to right, #008000, #0000ff, #4b0082, #ee82ee);
+}
+header h1
+{
+	color: white;
+	text-align: center;
+}
+p
+{
+	text-align: center;
+}
+nav ul
+{
+	text-align: center;
+}
+li
+{
+	padding-top: 10px;
+	width: 245px;
+	display: inline-block;
+	font-size: 30px;
+	height: 45px;
+}
+a
+{
+	color: white;
+}
+#raz
+{
+	background-color: #008000; 
+}
+#raz:hover
+{
+	background-color: #22a222;
+	cursor: pointer;
+}
+#dwa
+{
+	background-color: #0000ff; 
+}
+#dwa:hover
+{
+	background-color: #2222ff;
+	cursor: pointer;
+}
+#trzy
+{
+	background-color: #4b0082; 
+}
+#trzy:hover
+{
+	background-color: #6d22a4; 
+	cursor: pointer;
+}
+#cztery
+{
+	background-color: #ee82ee; 
+}
+#cztery:hover
+{
+	background-color: #ffa4ff;
+	cursor: pointer;
+}
+a{
+	text-decoration: none;
+}
+#boxik
+{
+	width: 100%;
+}
+#lewy
+{
+	width: 15%;
+	height: 330px;
+	float: left;
+	padding-top: 20px;
+}
+#hamburger
+{
+	background: url('grafika/ikona.jpg') no-repeat 0 -152px;
+	height: 33%;
+}
+#klucz
+{
+	background: url('grafika/ikona.jpg') no-repeat 0 -280px;
+	height: 33%;
+}
+#auto
+{
+	background: url('grafika/ikona.jpg') no-repeat 0 0px;
+	height: 33%;
+}
+#glowny
+{
+	width: 70%;
+	background-color: #dfb3ff;
+	height: 350px;
+	float: left;
+	text-align: center;
+}
+#oblicz
+{
+	padding-top: 40px;
+}
+input[type=number]
+{
+	background-color: #dfb3ff;
+	height: 25px;
+	width: 250px;
+	text-align: center;
+	padding-top: 40px;
+	outline: none;
+	border: none;
+	font-size: 15px;
+	border-bottom: 1px solid black;
+}
+input[type=submit]
+{
+	font-size: 20px;
+	margin-top: 20px;
+	outline: none;
+	background-color: #dfb3ff;
+	height: 40px;
+	width: 250px;
+}
+#wynik
+{
+	padding-top: 20px;
+	font-size: 25px;
+}
+#prawy
+{
+	width: 15%;
+	height: 350px;
+	float: left;
+}
+#akumulator
+{
+	background: url('grafika/ikona.jpg') no-repeat -165px -138px;
+	height: 33%;
+}
+#narzedzia
+{
+	background: url('grafika/ikona.jpg') no-repeat -167px 13px;
+	height: 33%;
+}
+#paliwo
+{
+	background: url('grafika/ikona.jpg') no-repeat -326px 5px;
+	height: 33%;
+}
+footer
+{
+	clear: both;
+	background: linear-gradient(to right, #008000, #0000ff, #4b0082, #ee82ee);
+	text-align: center;
+	color: white;
+	height: 100px;
+	padding-top: 50px;
+	font-size: 30px;
+}
