@@ -164,3 +164,15 @@ Zadanie, które trzeba było zrobić pod koniec roku, na zaliczenie przedmiotu. 
 ## Exam task:
 
 Zadanie, które było oceniane podczas lekcji.
+
+## Project to pass the year
+
+Zadaniem było opracowanie aplikacji internetowej z wykorzystaniem bazy danych, umożliwiającej użytkownikom przesyłanie obrazów wraz z opisami. Strona została stworzona z pełnym zakresem funkcji, takich jak rejestracja, logowanie i wylogowanie. Po zarejestrowaniu się, użytkownicy mogą przesyłać wpisy, które są przechowywane w bazie danych SQL. Na stronie istnieje rola administratora z dostępem do panelu administracyjnego (Admin Control Panel - ACP), który umożliwia usuwanie, blokowanie i odblokowywanie wpisów użytkowników. Użytkownicy zablokowani nie mają dostępu do strony, chyba że zostaną odblokowani. Mimo blokady, wpisy zablokowanych użytkowników pozostają na stronie, jednak ich nicki są odpowiednio oznaczone jako czarne przekreślenia.Dodatkowe funkcje dla użytkowników obejmują możliwość usuwania własnych wpisów oraz sortowanie wpisów według wybranych kategorii na stronie.
+
+<details>
+<summary>Lista rzeczy, które warto poprawić</summary>
+
+1. Spaghetti kod - przerobić kod strony na taki, aby nie przeklejać tego samego kodu, który odnosi się do kolejnej strony. Poprawnym wydaję się polecenie `include`, a także osobny plik z funkcjami.
+2. Usprawnić przesyłanie obrazów - użytkownik powinien móc uploadować własny obraz z dysku do bazy danych, zamiast przeklejać adres URL obrazu.
+
+</details>
