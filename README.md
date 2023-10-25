@@ -149,6 +149,10 @@ Treść zadania
 
 Strona internetowa zawiera prosty skrypt obliczający ilość paliwa niezbędną do przejechania określonej odległości. Użytkownik jest proszony o wprowadzenie liczby kilometrów oraz ilość spalanego paliwa na odległość 100km, skrypt wykorzystuje tę wartość do obliczenia ilości paliwa potrzebnej do pokonania tej trasy.
 
+## Exercise 4
+
+Strona internetowa jest wyposażona w odpowiednie mechanizmy stylizacji oraz starannie dostosowane elementy HTML. To pozwala na estetyczne i funkcjonalne prezentowanie treści, przy jednoczesnym zachowaniu struktury stron zgodnie z najlepszymi praktykami projektowania interfejsów internetowych
+
 ## Additional Task 1:
 
 Zadanie dodatkowe dla chętnych, strona głowna cukierni w Elblągu.
