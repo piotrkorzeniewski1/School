@@ -145,6 +145,10 @@ Treść zadania
 </details>
 </details>
 
+## Exercise 3
+
+Strona internetowa zawiera prosty skrypt obliczający ilość paliwa niezbędną do przejechania określonej odległości. Użytkownik jest proszony o wprowadzenie liczby kilometrów oraz ilość spalanego paliwa na odległość 100km, skrypt wykorzystuje tę wartość do obliczenia ilości paliwa potrzebnej do pokonania tej trasy.
+
 ## Additional Task 1:
 
 Zadanie dodatkowe dla chętnych, strona głowna cukierni w Elblągu.
