@@ -176,3 +176,7 @@ Zadaniem było opracowanie aplikacji internetowej z wykorzystaniem bazy danych, 
 2. Usprawnić przesyłanie obrazów - użytkownik powinien móc uploadować własny obraz z dysku do bazy danych, zamiast przeklejać adres URL obrazu.
 
 </details>
+
+## Exercise 5
+
+Strona internetowa umożliwiająca dynamiczne stosowanie efektów stylizacyjnych do tekstu za pośrednictwem interaktywnych przycisków.
