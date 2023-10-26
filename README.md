@@ -153,9 +153,17 @@ Strona internetowa zawiera prosty skrypt obliczający ilość paliwa niezbędną
 
 Strona internetowa jest wyposażona w odpowiednie mechanizmy stylizacji oraz starannie dostosowane elementy HTML. To pozwala na estetyczne i funkcjonalne prezentowanie treści, przy jednoczesnym zachowaniu struktury stron zgodnie z najlepszymi praktykami projektowania interfejsów internetowych
 
+## Exercise 5
+
+Strona internetowa umożliwiająca dynamiczne stosowanie efektów stylizacyjnych do tekstu za pośrednictwem interaktywnych przycisków.
+
 ## Additional Task 1:
 
 Zadanie dodatkowe dla chętnych, strona głowna cukierni w Elblągu.
+
+## Additional Task 2:
+
+Zadanie dodatkowe dla chętnych, strona internetowa wykorzystująca funkcje `transition` oraz `transform` do płynnych animacji i przekształceń elementów.
 
 ## Graded assignment:
 
@@ -176,7 +184,3 @@ Zadaniem było opracowanie aplikacji internetowej z wykorzystaniem bazy danych, 
 2. Usprawnić przesyłanie obrazów - użytkownik powinien móc uploadować własny obraz z dysku do bazy danych, zamiast przeklejać adres URL obrazu.
 
 </details>
-
-## Exercise 5
-
-Strona internetowa umożliwiająca dynamiczne stosowanie efektów stylizacyjnych do tekstu za pośrednictwem interaktywnych przycisków.
