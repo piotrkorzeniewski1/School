@@ -1,0 +1,104 @@
+#box
+{
+	width: 1800px;
+	height: 800px;
+	font-family: 'Georgia';
+}
+header
+{
+	height: 100px;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 50px;
+	color: white;
+	background-color: #824555;
+}
+body
+{
+	height: 600px;
+}
+#gora
+{
+	height: 300px;
+	background-color: #A26475;
+}
+
+#k1
+{
+	width: 600px;
+	height: 300px;
+	color: white;
+	float: left;
+}
+#k1 ul
+{
+	list-style-type: square;
+	float: left;
+}
+a{
+	font-size: 25px;
+	font-weight: bold;
+}
+#k2
+{
+	color: white;
+	height: 300px;
+	width: 600px;
+	float: left;
+}
+table
+{
+	padding-top: 10px;
+}
+table,tr,td,th 
+{
+  border: 3px solid #824555;
+  border-collapse: collapse;
+}
+#k3
+{
+	background-image: url("tekst.png");
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 600px;
+	float: left;
+}
+
+#dol
+{
+	height: 250px;
+	background-color: #F0EAE2;
+}
+#prz1
+{
+	background-color: red;
+}
+#prz2
+{
+	background-color: green;
+}
+#prz3
+{
+	background-color: blue;
+}
+#wszystko
+{
+	padding-top: 50px;
+	padding-left: 50px;
+}
+#przykladd
+{
+
+}
+footer
+{
+	text-align: center;
+	height: 50px;
+	background-color: #824555;
+	clear: both;
+}
+footer a
+{
+	font-size: 20px;
+}

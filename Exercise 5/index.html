@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Lato&display=swap" rel="stylesheet" >
+	<script type="text/javascript" src="funkcje.js"></script>
+</head>
+<div id="box">
+
+	<header>Formatowanie dokumentów HTML</header>
+
+<body>
+
+	<div id="gora">
+		<div id="k1">
+			<ul>
+				<a>Przyklady listy - hobby</a> 
+				<li>muzyka</li>
+				<li>turystyka
+				<ol>
+					<li>gory</li>
+					<li>jeziora</li>
+					<li>na rowerze</li>
+				</ol>
+				</li>
+				<li>ksiazki</li>
+			</ul>
+		</div>
+		<div id="k2">
+			<a>Przykład tabeli - rozklad dnia</a>
+			<table>
+				<tr>
+					<th>Pora dnia</th>
+					<th>Obowiazki</th>
+				</tr>
+				<tr>
+					<td>rano</td>
+					<td>nauka</td>
+				</tr>
+				<tr>
+					<td>południe</td>
+					<td>zajecia dodatkowe</td>
+				</tr>
+				<tr>
+					<td>popołudnie</td> 
+					<td rowspan="2">moje hobby</td>
+				</tr>
+				<tr>
+					<td>wieczor</td>
+				</tr>
+			</table>
+		</div>
+		<div id="k3"> </div>
+	</div>
+
+	<div id="dol">
+		<div id="wszystko">
+			Rozmair pliku w procentach: <input type="number" id="prc"> %<br><br>
+			<select id="myselect">
+  				<option value="1">prosty</option>
+  				<option value="2">pochylony</option>
+			</select><br><br>
+			Jakim kolorem sformatować tekst?<br><br>
+			<input type="submit" value=" " onclick="red()" id="prz1">
+			<input type="submit" value=" " onclick="green()" id="prz2">
+			<input type="submit" value=" " onclick="blue()" id="prz3"><br><br>
+			<div id="przykladd">To jest przyklad paragrafu, który może być dowolnie edytowany przez JavaScript</div>
+		</div>
+	</div>
+
+</body>
+
+<footer>
+	Formatowaniem tekstu zajmował się: 00000000000 <br>
+	<a href="#">Odwiedź także</a>
+</footer>
+</div>
+</html>
