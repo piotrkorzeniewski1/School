@@ -161,6 +161,10 @@ Strona internetowa umożliwiająca dynamiczne stosowanie efektów stylizacyjnych
 
 Witryna o tematyce japońskiej, która została starannie dostosowana pod względem jej stylizacji.
 
+## Exercise 7
+
+Strona internetowa, wyposażona w podstawowe rozwiązania dotyczące stylizacji, a także wykorzystująca niewielki skrypt w języku JavaScript.
+
 ## Additional Task 1:
 
 Zadanie dodatkowe dla chętnych, strona głowna cukierni w Elblągu.
