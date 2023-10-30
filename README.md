@@ -157,6 +157,10 @@ Strona internetowa jest wyposażona w odpowiednie mechanizmy stylizacji oraz sta
 
 Strona internetowa umożliwiająca dynamiczne stosowanie efektów stylizacyjnych do tekstu za pośrednictwem interaktywnych przycisków.
 
+## Exercise 6 
+
+Witryna o tematyce japońskiej, która została starannie dostosowana pod względem jej stylizacji.
+
 ## Additional Task 1:
 
 Zadanie dodatkowe dla chętnych, strona głowna cukierni w Elblągu.
