@@ -8,7 +8,7 @@ Treść zadania
 <details>
 <summary><strong>2. Wytyczne do stworzenia strony:</strong></summary>
 <details> 
-<summary><strong>2.1. Kodowanie polskich znaków</strong></summary>
+<summary><strong>2.1. Kodowanie polskich znaków</strong></summary> 
 </details>
 <details>
 <summary><strong>2.2. Dla całej strony ustawiono:</strong></summary>
