@@ -7,7 +7,7 @@ Treść zadania
 <summary><strong>1. Strona składa się z 5 paneli: nagłówek, 2 panele boczne, panel główny i stopka</strong></summary>
 <details>
 <summary><strong>2. Wytyczne do stworzenia strony:</strong></summary>
-<details> 
+<details>  
 <summary><strong>2.1. Kodowanie polskich znaków</strong></summary> 
 </details>
 <details>
