@@ -12,7 +12,7 @@ Treść zadania
 </details>
 <details>
 <summary><strong>2.2. Dla całej strony ustawiono:</strong></summary>
-- Szerokość 900px
+- Szerokość 900px 
 - Czcionka Roboto Condensed
 </details>
 <details>
