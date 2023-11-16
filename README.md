@@ -1,4 +1,4 @@
-# School 
+# School  
 High school projects      
  
 ## Exercise 1:
