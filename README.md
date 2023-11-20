@@ -1,7 +1,7 @@
 # School   
 High school projects       
   
-## Exercise 1:
+## Exercise 1: 
 Treść zadania
 <details>
 <summary><strong>1. Strona składa się z 5 paneli: nagłówek, 2 panele boczne, panel główny i stopka</strong></summary>
