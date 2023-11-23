@@ -1,5 +1,5 @@
 # School   
-High school projects        
+High school projects         
   
 ## Exercise 1: 
 Treść zadania
