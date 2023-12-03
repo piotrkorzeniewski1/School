@@ -1,6 +1,6 @@
 # School   
 High school projects           
-  
+   
 ## Exercise 1:  
 Treść zadania
 <details>
